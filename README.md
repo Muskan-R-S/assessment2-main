@@ -15,8 +15,6 @@ User enters "I would like to order a burger and fries" -> an order of 1 burger a
 
 # Setup
 
-See backend/README.md and frontend/README.md for setup instructions
-
 ## Frontend
 To setup the frontend navigate to the frontend directory and run the following commands:
 1. npm install
