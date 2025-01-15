@@ -1,4 +1,9 @@
 # Setup
 
-* Python version doesn't really matter, we use 3.11
-* Please use [FastAPI](https://fastapi.tiangolo.com/) (sort of setup in main.py) and the [OpenAI library](https://github.com/openai/openai-python)
+## Backend
+To setup the backend navigate to the backend follow the steps below. 
+1. Create a virtual environment. [python3 -m venv myvenv]
+2. Activate the virtual environment. [source myvennv/bin/activate]
+3. Install all dependencies. [Run command: poetry install] 
+4. Create an env variable to hold the Open AI API key [export OPEN_AI_API_KEY = "your_key"]
+4. Finally run the app using the following command: poetry run python main.py
