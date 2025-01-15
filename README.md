@@ -3,7 +3,10 @@
 A mock drive thru ordering system that allows users to place and cancel their orders using AI.
 
 The user will input the order details in natual language.
-The user can opt to order the following items 1) burgers, 2) fries, or 3) drinks. 
+The user can opt to order the following items 
+1. Burgers
+2. Fries
+3. Drinks. 
 The user will be able to see the order history and the counter for total number of burgers, fries, and drinks.
 
 Example:
@@ -31,5 +34,10 @@ To setup the backend navigate to the backend follow the steps below.
 Here is a small demo of the app. 
 
 Demo1: Placing an order.
+https://github.com/user-attachments/assets/d4dfbb56-526a-47f0-bd45-34613f693919
+
 
 Demo2: Cancelling the order. 
+https://github.com/user-attachments/assets/21afb10c-4b23-43da-8d0e-872994107ec8
+
+
